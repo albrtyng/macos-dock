@@ -1,4 +1,6 @@
-Simulating the macOS dock animation using framer-motion and requestAnimationFrame
+Mimicking the macOS dock animations using framer-motion and requestAnimationFrame
+
+![A demo gif of macos-dock](/src/assets/macos-dock.gif)
 
 ## Available Scripts
 
